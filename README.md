@@ -11,7 +11,7 @@ Contents
 
 * `pol-des/`: fragment files and polarisable force field database.
 
-* `pol-des/example_des`: examples of choline chloride - ethylene glycol (ChCl-EG) molecule files and force field database.
+* `example_pol-des/`: examples of choline chloride - ethylene glycol (ChCl-EG) molecule files and force field database.
 
 Tutorial
 --------
